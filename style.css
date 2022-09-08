@@ -1,0 +1,28 @@
+
+
+body {
+  background-color: lightgray;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+  color: darkblue;
+  background-color: whitesmoke;
+}
+
+.headings {
+  color: darkblue;
+}
+
+ul {
+  font-size: 20px;
+}
+
+.unordered {
+  font-size: 18px;
+  background-color:aliceblue;
+}
+
+.image {
+  background-color: black;
+}
